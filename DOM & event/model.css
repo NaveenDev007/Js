@@ -1,0 +1,21 @@
+*{margin: 0px;
+    padding: 0px;
+    box-sizing: inherit ;
+}
+body{
+    background-color: rgb(131, 221, 131);
+}
+li{
+display: inline-flex;
+text-decoration: none;
+justify-content: center;
+padding: 20px;
+background-color: white;
+border-radius: 30px;
+width: 150px;
+margin: 20px;
+}
+ul{
+    max-width: 700px;
+    margin:auto
+}
